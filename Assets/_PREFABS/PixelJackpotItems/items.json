@@ -1,0 +1,464 @@
+{
+ "tile_size": 16,
+ "sheet": "Jackpot_Items_Sheet.png",
+ "sheet_columns": 10,
+ "categories": [
+  "Slot Symbols",
+  "Lucky Charms",
+  "Coins & Cash",
+  "Casino",
+  "Jackpot & Bonus"
+ ],
+ "items": [
+  {
+   "name": "Cherries",
+   "display_name": "Cherries",
+   "category": "Slot Symbols",
+   "index": 0,
+   "file": "Items/Slot_Symbols/Cherries.png",
+   "sheet_x": 0,
+   "sheet_y": 0
+  },
+  {
+   "name": "Lemon",
+   "display_name": "Lemon",
+   "category": "Slot Symbols",
+   "index": 1,
+   "file": "Items/Slot_Symbols/Lemon.png",
+   "sheet_x": 16,
+   "sheet_y": 0
+  },
+  {
+   "name": "Orange",
+   "display_name": "Orange",
+   "category": "Slot Symbols",
+   "index": 2,
+   "file": "Items/Slot_Symbols/Orange.png",
+   "sheet_x": 32,
+   "sheet_y": 0
+  },
+  {
+   "name": "Plum",
+   "display_name": "Plum",
+   "category": "Slot Symbols",
+   "index": 3,
+   "file": "Items/Slot_Symbols/Plum.png",
+   "sheet_x": 48,
+   "sheet_y": 0
+  },
+  {
+   "name": "Grapes",
+   "display_name": "Grapes",
+   "category": "Slot Symbols",
+   "index": 4,
+   "file": "Items/Slot_Symbols/Grapes.png",
+   "sheet_x": 64,
+   "sheet_y": 0
+  },
+  {
+   "name": "Watermelon",
+   "display_name": "Watermelon",
+   "category": "Slot Symbols",
+   "index": 5,
+   "file": "Items/Slot_Symbols/Watermelon.png",
+   "sheet_x": 80,
+   "sheet_y": 0
+  },
+  {
+   "name": "Strawberry",
+   "display_name": "Strawberry",
+   "category": "Slot Symbols",
+   "index": 6,
+   "file": "Items/Slot_Symbols/Strawberry.png",
+   "sheet_x": 96,
+   "sheet_y": 0
+  },
+  {
+   "name": "Bell",
+   "display_name": "Bell",
+   "category": "Slot Symbols",
+   "index": 7,
+   "file": "Items/Slot_Symbols/Bell.png",
+   "sheet_x": 112,
+   "sheet_y": 0
+  },
+  {
+   "name": "LuckySeven",
+   "display_name": "Lucky Seven",
+   "category": "Slot Symbols",
+   "index": 8,
+   "file": "Items/Slot_Symbols/LuckySeven.png",
+   "sheet_x": 128,
+   "sheet_y": 0
+  },
+  {
+   "name": "Bar",
+   "display_name": "Bar",
+   "category": "Slot Symbols",
+   "index": 9,
+   "file": "Items/Slot_Symbols/Bar.png",
+   "sheet_x": 144,
+   "sheet_y": 0
+  },
+  {
+   "name": "Clover",
+   "display_name": "Clover",
+   "category": "Lucky Charms",
+   "index": 10,
+   "file": "Items/Lucky_Charms/Clover.png",
+   "sheet_x": 0,
+   "sheet_y": 16
+  },
+  {
+   "name": "Horseshoe",
+   "display_name": "Horseshoe",
+   "category": "Lucky Charms",
+   "index": 11,
+   "file": "Items/Lucky_Charms/Horseshoe.png",
+   "sheet_x": 16,
+   "sheet_y": 16
+  },
+  {
+   "name": "Star",
+   "display_name": "Star",
+   "category": "Lucky Charms",
+   "index": 12,
+   "file": "Items/Lucky_Charms/Star.png",
+   "sheet_x": 32,
+   "sheet_y": 16
+  },
+  {
+   "name": "Heart",
+   "display_name": "Heart",
+   "category": "Lucky Charms",
+   "index": 13,
+   "file": "Items/Lucky_Charms/Heart.png",
+   "sheet_x": 48,
+   "sheet_y": 16
+  },
+  {
+   "name": "Crown",
+   "display_name": "Crown",
+   "category": "Lucky Charms",
+   "index": 14,
+   "file": "Items/Lucky_Charms/Crown.png",
+   "sheet_x": 64,
+   "sheet_y": 16
+  },
+  {
+   "name": "Diamond",
+   "display_name": "Diamond",
+   "category": "Lucky Charms",
+   "index": 15,
+   "file": "Items/Lucky_Charms/Diamond.png",
+   "sheet_x": 80,
+   "sheet_y": 16
+  },
+  {
+   "name": "Ruby",
+   "display_name": "Ruby",
+   "category": "Lucky Charms",
+   "index": 16,
+   "file": "Items/Lucky_Charms/Ruby.png",
+   "sheet_x": 96,
+   "sheet_y": 16
+  },
+  {
+   "name": "Emerald",
+   "display_name": "Emerald",
+   "category": "Lucky Charms",
+   "index": 17,
+   "file": "Items/Lucky_Charms/Emerald.png",
+   "sheet_x": 112,
+   "sheet_y": 16
+  },
+  {
+   "name": "Sapphire",
+   "display_name": "Sapphire",
+   "category": "Lucky Charms",
+   "index": 18,
+   "file": "Items/Lucky_Charms/Sapphire.png",
+   "sheet_x": 128,
+   "sheet_y": 16
+  },
+  {
+   "name": "Rainbow",
+   "display_name": "Rainbow",
+   "category": "Lucky Charms",
+   "index": 19,
+   "file": "Items/Lucky_Charms/Rainbow.png",
+   "sheet_x": 144,
+   "sheet_y": 16
+  },
+  {
+   "name": "GoldCoin",
+   "display_name": "Gold Coin",
+   "category": "Coins & Cash",
+   "index": 20,
+   "file": "Items/Coins_Cash/GoldCoin.png",
+   "sheet_x": 0,
+   "sheet_y": 32
+  },
+  {
+   "name": "SilverCoin",
+   "display_name": "Silver Coin",
+   "category": "Coins & Cash",
+   "index": 21,
+   "file": "Items/Coins_Cash/SilverCoin.png",
+   "sheet_x": 16,
+   "sheet_y": 32
+  },
+  {
+   "name": "CoinStack",
+   "display_name": "Coin Stack",
+   "category": "Coins & Cash",
+   "index": 22,
+   "file": "Items/Coins_Cash/CoinStack.png",
+   "sheet_x": 32,
+   "sheet_y": 32
+  },
+  {
+   "name": "CoinPile",
+   "display_name": "Coin Pile",
+   "category": "Coins & Cash",
+   "index": 23,
+   "file": "Items/Coins_Cash/CoinPile.png",
+   "sheet_x": 48,
+   "sheet_y": 32
+  },
+  {
+   "name": "Banknote",
+   "display_name": "Banknote",
+   "category": "Coins & Cash",
+   "index": 24,
+   "file": "Items/Coins_Cash/Banknote.png",
+   "sheet_x": 64,
+   "sheet_y": 32
+  },
+  {
+   "name": "CashStack",
+   "display_name": "Cash Stack",
+   "category": "Coins & Cash",
+   "index": 25,
+   "file": "Items/Coins_Cash/CashStack.png",
+   "sheet_x": 80,
+   "sheet_y": 32
+  },
+  {
+   "name": "MoneyBag",
+   "display_name": "Money Bag",
+   "category": "Coins & Cash",
+   "index": 26,
+   "file": "Items/Coins_Cash/MoneyBag.png",
+   "sheet_x": 96,
+   "sheet_y": 32
+  },
+  {
+   "name": "GoldBar",
+   "display_name": "Gold Bar",
+   "category": "Coins & Cash",
+   "index": 27,
+   "file": "Items/Coins_Cash/GoldBar.png",
+   "sheet_x": 112,
+   "sheet_y": 32
+  },
+  {
+   "name": "GoldBarStack",
+   "display_name": "Gold Bar Stack",
+   "category": "Coins & Cash",
+   "index": 28,
+   "file": "Items/Coins_Cash/GoldBarStack.png",
+   "sheet_x": 128,
+   "sheet_y": 32
+  },
+  {
+   "name": "PotOfGold",
+   "display_name": "Pot Of Gold",
+   "category": "Coins & Cash",
+   "index": 29,
+   "file": "Items/Coins_Cash/PotOfGold.png",
+   "sheet_x": 144,
+   "sheet_y": 32
+  },
+  {
+   "name": "Dice",
+   "display_name": "Dice",
+   "category": "Casino",
+   "index": 30,
+   "file": "Items/Casino/Dice.png",
+   "sheet_x": 0,
+   "sheet_y": 48
+  },
+  {
+   "name": "RedChip",
+   "display_name": "Red Chip",
+   "category": "Casino",
+   "index": 31,
+   "file": "Items/Casino/RedChip.png",
+   "sheet_x": 16,
+   "sheet_y": 48
+  },
+  {
+   "name": "BlueChip",
+   "display_name": "Blue Chip",
+   "category": "Casino",
+   "index": 32,
+   "file": "Items/Casino/BlueChip.png",
+   "sheet_x": 32,
+   "sheet_y": 48
+  },
+  {
+   "name": "GreenChip",
+   "display_name": "Green Chip",
+   "category": "Casino",
+   "index": 33,
+   "file": "Items/Casino/GreenChip.png",
+   "sheet_x": 48,
+   "sheet_y": 48
+  },
+  {
+   "name": "BlackChip",
+   "display_name": "Black Chip",
+   "category": "Casino",
+   "index": 34,
+   "file": "Items/Casino/BlackChip.png",
+   "sheet_x": 64,
+   "sheet_y": 48
+  },
+  {
+   "name": "ChipStack",
+   "display_name": "Chip Stack",
+   "category": "Casino",
+   "index": 35,
+   "file": "Items/Casino/ChipStack.png",
+   "sheet_x": 80,
+   "sheet_y": 48
+  },
+  {
+   "name": "AceCard",
+   "display_name": "Ace Card",
+   "category": "Casino",
+   "index": 36,
+   "file": "Items/Casino/AceCard.png",
+   "sheet_x": 96,
+   "sheet_y": 48
+  },
+  {
+   "name": "CardHand",
+   "display_name": "Card Hand",
+   "category": "Casino",
+   "index": 37,
+   "file": "Items/Casino/CardHand.png",
+   "sheet_x": 112,
+   "sheet_y": 48
+  },
+  {
+   "name": "RouletteWheel",
+   "display_name": "Roulette Wheel",
+   "category": "Casino",
+   "index": 38,
+   "file": "Items/Casino/RouletteWheel.png",
+   "sheet_x": 128,
+   "sheet_y": 48
+  },
+  {
+   "name": "SlotMachine",
+   "display_name": "Slot Machine",
+   "category": "Casino",
+   "index": 39,
+   "file": "Items/Casino/SlotMachine.png",
+   "sheet_x": 144,
+   "sheet_y": 48
+  },
+  {
+   "name": "Trophy",
+   "display_name": "Trophy",
+   "category": "Jackpot & Bonus",
+   "index": 40,
+   "file": "Items/Jackpot_Bonus/Trophy.png",
+   "sheet_x": 0,
+   "sheet_y": 64
+  },
+  {
+   "name": "Medal",
+   "display_name": "Medal",
+   "category": "Jackpot & Bonus",
+   "index": 41,
+   "file": "Items/Jackpot_Bonus/Medal.png",
+   "sheet_x": 16,
+   "sheet_y": 64
+  },
+  {
+   "name": "GiftBox",
+   "display_name": "Gift Box",
+   "category": "Jackpot & Bonus",
+   "index": 42,
+   "file": "Items/Jackpot_Bonus/GiftBox.png",
+   "sheet_x": 32,
+   "sheet_y": 64
+  },
+  {
+   "name": "GoldenTicket",
+   "display_name": "Golden Ticket",
+   "category": "Jackpot & Bonus",
+   "index": 43,
+   "file": "Items/Jackpot_Bonus/GoldenTicket.png",
+   "sheet_x": 48,
+   "sheet_y": 64
+  },
+  {
+   "name": "SlotLever",
+   "display_name": "Slot Lever",
+   "category": "Jackpot & Bonus",
+   "index": 44,
+   "file": "Items/Jackpot_Bonus/SlotLever.png",
+   "sheet_x": 64,
+   "sheet_y": 64
+  },
+  {
+   "name": "Reel777",
+   "display_name": "Reel 777",
+   "category": "Jackpot & Bonus",
+   "index": 45,
+   "file": "Items/Jackpot_Bonus/Reel777.png",
+   "sheet_x": 80,
+   "sheet_y": 64
+  },
+  {
+   "name": "ScratchCard",
+   "display_name": "Scratch Card",
+   "category": "Jackpot & Bonus",
+   "index": 46,
+   "file": "Items/Jackpot_Bonus/ScratchCard.png",
+   "sheet_x": 96,
+   "sheet_y": 64
+  },
+  {
+   "name": "MultiplierX2",
+   "display_name": "Multiplier X 2",
+   "category": "Jackpot & Bonus",
+   "index": 47,
+   "file": "Items/Jackpot_Bonus/MultiplierX2.png",
+   "sheet_x": 112,
+   "sheet_y": 64
+  },
+  {
+   "name": "WildBadge",
+   "display_name": "Wild Badge",
+   "category": "Jackpot & Bonus",
+   "index": 48,
+   "file": "Items/Jackpot_Bonus/WildBadge.png",
+   "sheet_x": 128,
+   "sheet_y": 64
+  },
+  {
+   "name": "TreasureChest",
+   "display_name": "Treasure Chest",
+   "category": "Jackpot & Bonus",
+   "index": 49,
+   "file": "Items/Jackpot_Bonus/TreasureChest.png",
+   "sheet_x": 144,
+   "sheet_y": 64
+  }
+ ]
+}

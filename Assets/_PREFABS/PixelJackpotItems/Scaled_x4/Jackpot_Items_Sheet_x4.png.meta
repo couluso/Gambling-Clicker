@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: ab4ab141cd9ce9b4fa6b866f53f54bc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2620451918108414807
+    second: Jackpot_Items_Sheet_x4_0
+  - first:
+      213: -8281531136401353225
+    second: Jackpot_Items_Sheet_x4_1
+  - first:
+      213: -8042081291228713264
+    second: Jackpot_Items_Sheet_x4_2
+  - first:
+      213: 6225244468413349646
+    second: Jackpot_Items_Sheet_x4_3
+  - first:
+      213: -5012490394752014327
+    second: Jackpot_Items_Sheet_x4_4
+  - first:
+      213: 2029773074759077578
+    second: Jackpot_Items_Sheet_x4_5
+  - first:
+      213: -8388599638031261853
+    second: Jackpot_Items_Sheet_x4_6
+  - first:
+      213: 1415893189958383626
+    second: Jackpot_Items_Sheet_x4_7
+  - first:
+      213: 621272855722809857
+    second: Jackpot_Items_Sheet_x4_8
+  - first:
+      213: 7438436089523350435
+    second: Jackpot_Items_Sheet_x4_9
+  - first:
+      213: -4680896875197445259
+    second: Jackpot_Items_Sheet_x4_10
+  - first:
+      213: -7675889004105259861
+    second: Jackpot_Items_Sheet_x4_11
+  - first:
+      213: -1077512020994121149
+    second: Jackpot_Items_Sheet_x4_12
+  - first:
+      213: 6993490307510764774
+    second: Jackpot_Items_Sheet_x4_13
+  - first:
+      213: -8218048113738480557
+    second: Jackpot_Items_Sheet_x4_14
+  - first:
+      213: 8577252340254989347
+    second: Jackpot_Items_Sheet_x4_15
+  - first:
+      213: 4710996949900488052
+    second: Jackpot_Items_Sheet_x4_16
+  - first:
+      213: 4096004133396054122
+    second: Jackpot_Items_Sheet_x4_17
+  - first:
+      213: 8040924205193318434
+    second: Jackpot_Items_Sheet_x4_18
+  - first:
+      213: 8975954351814442073
+    second: Jackpot_Items_Sheet_x4_19
+  - first:
+      213: -9111129560578279803
+    second: Jackpot_Items_Sheet_x4_20
+  - first:
+      213: 7036052143163274373
+    second: Jackpot_Items_Sheet_x4_21
+  - first:
+      213: 5323474652327132808
+    second: Jackpot_Items_Sheet_x4_22
+  - first:
+      213: 5275944161470672296
+    second: Jackpot_Items_Sheet_x4_23
+  - first:
+      213: 7635185690837424026
+    second: Jackpot_Items_Sheet_x4_24
+  - first:
+      213: -1783998488686007739
+    second: Jackpot_Items_Sheet_x4_25
+  - first:
+      213: -7849207848845786955
+    second: Jackpot_Items_Sheet_x4_26
+  - first:
+      213: -4622589644295531943
+    second: Jackpot_Items_Sheet_x4_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753d7d1c227bd5420800000000000000
+      internalID: 2620451918108414807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5d5721f47121d80800000000000000
+      internalID: -8281531136401353225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 255
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de6f75aca9c46090800000000000000
+      internalID: -8042081291228713264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f3ebb7cd2846650800000000000000
+      internalID: 6225244468413349646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 267
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908afb41b8e007ab0800000000000000
+      internalID: -5012490394752014327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 255
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acecaa77bd33b2c10800000000000000
+      internalID: 2029773074759077578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_6
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 259
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f1d2ce215b59b80800000000000000
+      internalID: -8388599638031261853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_7
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 255
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a083d53ca5346a310800000000000000
+      internalID: 1415893189958383626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_8
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 267
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a53f1ee543f9800800000000000000
+      internalID: 621272855722809857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 191
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab2c708632aa3760800000000000000
+      internalID: 7438436089523350435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 195
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bce9ba71d1a0fb0800000000000000
+      internalID: -4680896875197445259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 199
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4aafe8e93c97590800000000000000
+      internalID: -7675889004105259861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 195
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342ae6b9688eb01f0800000000000000
+      internalID: -1077512020994121149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_13
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 195
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4015fa16edd0160800000000000000
+      internalID: 6993490307510764774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 195
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3548c8918c0a3fd80800000000000000
+      internalID: -8218048113738480557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_15
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 195
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c59c92f85880770800000000000000
+      internalID: 8577252340254989347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_16
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 191
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d64c814c2d06140800000000000000
+      internalID: 4710996949900488052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 131
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a608a99ce0ee7d830800000000000000
+      internalID: 4096004133396054122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 131
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220536446f9179f60800000000000000
+      internalID: 8040924205193318434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 127
+        width: 258
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c75042deef09c70800000000000000
+      internalID: 8975954351814442073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 381
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586bb2fffe3ce8180800000000000000
+      internalID: -9111129560578279803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_21
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 63
+        width: 194
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5847f56452415a160800000000000000
+      internalID: 7036052143163274373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 65
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e31c6cdf7c0e940800000000000000
+      internalID: 5323474652327132808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 67
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad614ff24be73940800000000000000
+      internalID: 5275944161470672296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 67
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a979280dee0a5f960800000000000000
+      internalID: 7635185690837424026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 67
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a690a93d6fd37e0800000000000000
+      internalID: -1783998488686007739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0c6516c03021390800000000000000
+      internalID: -7849207848845786955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot_Items_Sheet_x4_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 130
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9529d55c53349dfb0800000000000000
+      internalID: -4622589644295531943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jackpot_Items_Sheet_x4_0: 2620451918108414807
+      Jackpot_Items_Sheet_x4_1: -8281531136401353225
+      Jackpot_Items_Sheet_x4_10: -4680896875197445259
+      Jackpot_Items_Sheet_x4_11: -7675889004105259861
+      Jackpot_Items_Sheet_x4_12: -1077512020994121149
+      Jackpot_Items_Sheet_x4_13: 6993490307510764774
+      Jackpot_Items_Sheet_x4_14: -8218048113738480557
+      Jackpot_Items_Sheet_x4_15: 8577252340254989347
+      Jackpot_Items_Sheet_x4_16: 4710996949900488052
+      Jackpot_Items_Sheet_x4_17: 4096004133396054122
+      Jackpot_Items_Sheet_x4_18: 8040924205193318434
+      Jackpot_Items_Sheet_x4_19: 8975954351814442073
+      Jackpot_Items_Sheet_x4_2: -8042081291228713264
+      Jackpot_Items_Sheet_x4_20: -9111129560578279803
+      Jackpot_Items_Sheet_x4_21: 7036052143163274373
+      Jackpot_Items_Sheet_x4_22: 5323474652327132808
+      Jackpot_Items_Sheet_x4_23: 5275944161470672296
+      Jackpot_Items_Sheet_x4_24: 7635185690837424026
+      Jackpot_Items_Sheet_x4_25: -1783998488686007739
+      Jackpot_Items_Sheet_x4_26: -7849207848845786955
+      Jackpot_Items_Sheet_x4_27: -4622589644295531943
+      Jackpot_Items_Sheet_x4_3: 6225244468413349646
+      Jackpot_Items_Sheet_x4_4: -5012490394752014327
+      Jackpot_Items_Sheet_x4_5: 2029773074759077578
+      Jackpot_Items_Sheet_x4_6: -8388599638031261853
+      Jackpot_Items_Sheet_x4_7: 1415893189958383626
+      Jackpot_Items_Sheet_x4_8: 621272855722809857
+      Jackpot_Items_Sheet_x4_9: 7438436089523350435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
