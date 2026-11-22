@@ -11,7 +11,7 @@ public class ClickJeton : MonoBehaviour
     [Header("Jetons")]
     public int jetons = 0;
     public float productivite = 0f;
-    public List<ClickJeton> chips = new List<ClickJeton>();
+    //public List<ClickJeton> chips = new List<ClickJeton>();
 
     [Header("Références")]
     [SerializeField]
@@ -30,7 +30,7 @@ public class ClickJeton : MonoBehaviour
         compteur.text = "" + jetons;
         prod.text = "Par seconde : " + productivite;
 
-        UpdateState();
+        //UpdateState();
 
     }
 
@@ -44,7 +44,7 @@ public class ClickJeton : MonoBehaviour
         jetons += 1;
     }
 
-    private void UpdateState()
+    /*private void UpdateState()
     {
         bool shown = false;
 
@@ -71,5 +71,5 @@ public class ClickJeton : MonoBehaviour
                 shown = true;
             }
         }
-    }
+    }*/
 }
